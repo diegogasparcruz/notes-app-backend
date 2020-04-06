@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.650.0",
+    "jest": "^25.2.4",
+    "serverless-bundle": "^1.3.3",
+    "serverless-dotenv-plugin": "^2.3.2",
+    "serverless-offline": "^6.1.2"
+  },
+  "dependencies": {
+    "stripe": "^8.38.0",
+    "uuid": "3.4.0"
+  }
+}
